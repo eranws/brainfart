@@ -2,8 +2,12 @@
 [github.com/eranws/brainfart](https://github.com/eranws/brainfart)
 
 ## usage:  
-`./fart "your message here"`
+### `./fart "your message here"`
 
+this will add your message to the end of this file, commit and push all local changes to git.
+pretty useful when you have just a blurb of thought that you need to release.
+
+---
 
 a collection of one-liners
 dumped into a file
@@ -57,4 +61,5 @@ update-usage
 fix
 site
 site-url
+usage
 usage
