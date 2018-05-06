@@ -11,3 +11,5 @@ i
 renamed to fart
 renamed
 delete
+- bullets
+- bullet
