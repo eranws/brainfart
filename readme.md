@@ -24,3 +24,4 @@ added
 remove slash
 - I am farting right now too!
 sudo cp fart /usr/local/bin/
+now works
