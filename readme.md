@@ -19,3 +19,4 @@ delete
 ./fart.bash is now ./fart  
 added
 - I am farting right now
+- I am farting right now too!

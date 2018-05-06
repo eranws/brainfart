@@ -3,7 +3,6 @@
 # This is the brainfart install script
 #
 # <p> Are you looking at this in your web browser? <p>
- 
 # curl https://eranws.github.io/brainfart/install/ | sh
 
 # init git ?
@@ -11,4 +10,4 @@ curl https://eranws.github.io/brainfart/fart > fart
 chmod +x ./fart
 
 echo Download successful.
-./fart "- I am farting right now"
+./fart "- I am farting right now too!"
