@@ -1,7 +1,7 @@
 # brainfart
 
 ## usage:  
-`./fart.bash "your message here"`
+`./fart "your message here"`
 
 
 a collection of one-liners
@@ -53,3 +53,4 @@ like dis ^^
 hi i love you
 a thing that does that thang
 update-usage
+fix
