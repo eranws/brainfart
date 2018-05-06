@@ -1,5 +1,9 @@
 # brainfart
 
+## usage:  
+`./fart.bash "your message here"`
+
+
 a collection of one-liners
 dumped into a file
 committed to git
@@ -48,3 +52,4 @@ like dis ^^
 
 hi i love you
 a thing that does that thang
+update-usage
