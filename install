@@ -10,4 +10,4 @@ curl https://eranws.github.io/brainfart/fart > fart
 chmod +x ./fart
 
 echo Download successful.
-./fart "- I am farting right now  "
+./fart "- I am farting right now from `pwd`  "
