@@ -40,3 +40,4 @@ fart commits and pushes everything in the current folder
 eaxmple: $ top | head -1 : Processes: 367 total, 2 running, 365 sleeping, 2695 threads
 
 :
+- this is how to run code ^^^
