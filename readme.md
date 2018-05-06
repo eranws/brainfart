@@ -35,3 +35,4 @@ newlines are \n discouraged
 fart commits and pushes everything in the current folder
 ### fart commits and pushes everything in the current folder
 <code>curl https://eranws.github.io/brainfart/install | sh</code>
+^^^ type this in any git repo ^^^
