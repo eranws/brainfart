@@ -10,3 +10,4 @@ which is this one
 i
 renamed to fart
 renamed
+delete
