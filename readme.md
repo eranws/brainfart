@@ -1,5 +1,5 @@
 # brainfart
-https://github.com/eranws/brainfart
+[github.com/eranws/brainfart](https://github.com/eranws/brainfart)
 
 ## usage:  
 `./fart "your message here"`
@@ -56,3 +56,4 @@ a thing that does that thang
 update-usage
 fix
 site
+site-url
