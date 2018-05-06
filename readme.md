@@ -32,3 +32,4 @@ code
 
 fart without arguments adds a line without commit
 newlines are \n discouraged
+fart commits and pushes everything in the current folder
