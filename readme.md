@@ -14,6 +14,7 @@ delete
 - bullets
 - bullet
 # usage:
-> why would you?
-./fart.bash "your message here"
-./fart.bash is now ./fart
+> why would you?  
+./fart.bash "your message here"  
+./fart.bash is now ./fart  
+added
