@@ -16,3 +16,4 @@ delete
 # usage:
 > why would you?
 ./fart.bash "your message here"
+./fart.bash is now ./fart
