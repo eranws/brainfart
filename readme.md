@@ -28,3 +28,4 @@ now works
 now [master 20e71cb] now works 1 file changed, 1 insertion(+) works
 
 code
+<pre>code</pre>
