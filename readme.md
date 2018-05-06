@@ -18,3 +18,4 @@ delete
 ./fart.bash "your message here"  
 ./fart.bash is now ./fart  
 added
+- I am farting right now
