@@ -31,3 +31,4 @@ code
 <pre>code</pre>
 
 fart without arguments adds a line without commit
+newlines are \n discouraged
