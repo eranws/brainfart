@@ -57,3 +57,4 @@ update-usage
 fix
 site
 site-url
+usage
