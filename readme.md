@@ -15,3 +15,4 @@ delete
 - bullet
 # usage:
 > why would you?
+./fart.bash "your message here"
