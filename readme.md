@@ -70,3 +70,4 @@ so many libraries but so little stories
 ls
 immediately
 i did it; but you; didn't ;
+fart is an immediate editor publishing tool
