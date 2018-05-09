@@ -67,3 +67,4 @@ fart install readme.md test use ln -s for install
 \* use ln -s for install
 
 so many libraries but so little stories
+ls
