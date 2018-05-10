@@ -72,3 +72,4 @@ immediately
 i did it; but you; didn't ;
 fart is an immediate editor publishing tool
 TypeError: integer argument expected, got float - cv.circle, just try a tiny bit
+- use fart as a shortcut for brainfart --fart "msg"
