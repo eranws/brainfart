@@ -75,3 +75,4 @@ TypeError: integer argument expected, got float - cv.circle, just try a tiny bit
 - use fart as a shortcut for brainfart --fart "msg"
 - then, use brainfart --add, --to, --help, etc.
 what happends when offline?
+write-c-code
